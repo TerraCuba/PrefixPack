@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "PrefixMod RP",
+    "description": "Recursos para prefixes personalizados",
+    "uuid": "a8f8a0d6-523b-46c9-a30d-52b07bf1110d", // ¡Genera uno nuevo! (https://www.uuidgenerator.net/)
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "2b3b1c02-a0f3-40c1-9178-c0c78cde68a7", // ¡Otro UUID diferente!
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "UUID_DEL_BEHAVIOR_PACK", // El mismo UUID del header de tu BP
+      "version": [1, 0, 0]
+    }
+  ]
+    }

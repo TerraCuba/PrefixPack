@@ -1,7 +1,7 @@
 {
   "format_version": 2,
   "header": {
-    "name": "PrefixMod RP",
+    "name": "Prefix Mod",
     "description": "Recursos para prefixes personalizados",
     "uuid": "a8f8a0d6-523b-46c9-a30d-52b07bf1110d", // ¡Genera uno nuevo! (https://www.uuidgenerator.net/)
     "version": [1, 0, 0],
@@ -16,7 +16,7 @@
   ],
   "dependencies": [
     {
-      "uuid": "UUID_DEL_BEHAVIOR_PACK", // El mismo UUID del header de tu BP
+      "uuid": "a6966de0-34ff-4fc7-87aa-6b2472b89de3", // El mismo UUID del header de tu BP
       "version": [1, 0, 0]
     }
   ]

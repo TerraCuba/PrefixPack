@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Prefix Mod",
+    "description": "Sistema de prefixes para jugadores",
+    "uuid": "a6966de0-34ff-4fc7-87aa-6b2472b89de3",  // Genera uno en https://www.uuidgenerator.net/
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "40ded1e5-e58b-4404-be23-678231c3e9ec",
+      "version": [1, 0, 0],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "06afcb78-d871-4c75-923e-3ba0a96f062d",  // Si necesitas dependencias
+      "version": [1, 0, 0]
+    }
+  ]
+    }
